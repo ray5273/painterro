@@ -1,6 +1,6 @@
 {
-  "name": "painterro",
-  "version": "0.2.75",
+  "name": "painterro_tmp",
+  "version": "0.2.83",
   "description": "HTML5 image editor widget",
   "main": "build/painterro.commonjs2.js",
   "scripts": {
@@ -38,5 +38,17 @@
   },
   "dependencies": {
     "webpack-cli": "^3.3.2"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ray5273/painterro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ray5273/painterro/issues"
+  },
+  "homepage": "https://github.com/ray5273/painterro#readme"
 }
